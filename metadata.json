@@ -1,0 +1,6 @@
+{
+  "name": "AI CHALLENGE",
+  "description": "Gameshow AI 12 phút dành cho học sinh Tiểu học, THCS, THPT với 3 game tương tác: AI hay Người, AI Thám tử, và Prompt Thần tốc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
